@@ -1,6 +1,6 @@
 # COFFEE-SALES-DASHBOARD
 
-#Overview of the Coffee Sales Dashboard
+# Overview of the Coffee Sales Dashboard
 This dashboard provides a comprehensive view of coffee sales data. It includes visualizations to track sales trends over time, by country, and by customer. Interactive elements like a timeline, slicers, and filters allow you to explore the data in more detail.
 Features of the Dataset
  * Order Date: Date of each coffee order.
